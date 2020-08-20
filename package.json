@@ -1,0 +1,21 @@
+{
+  "name": "sqlite-tiler",
+  "version": "0.1.0",
+  "scripts": {
+    "lint": "eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myadzel/sqlite-tiler.git"
+  },
+  "keywords": ["sqlite", "sqlitedb", "mbtiles", "osmand", "rmaps", "locus", "oruxmaps", "tiles", "tiler"],
+  "author": "Alexander Myadzel <myadzel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myadzel/sqlite-tiler/issues"
+  },
+  "dependencies": {
+    "file-type": "^14.7.1",
+    "sql.js": "^1.3.0"
+  }
+}
