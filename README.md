@@ -12,7 +12,7 @@ This module is being developed to work in a browser environment, not just a Node
 
 Install
 -------
->$ npm install sql-tiler
+>$ npm install sqlite-tiler
 
 
 API
