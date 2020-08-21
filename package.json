@@ -1,7 +1,7 @@
 {
   "name": "sqlite-tiler",
   "description": "Read sqlite tiles database and returns tiles data",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "lint": "eslint ./src"
   },
